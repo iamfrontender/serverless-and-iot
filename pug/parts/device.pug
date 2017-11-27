@@ -1,0 +1,26 @@
+.device
+
+style.
+  .device {
+    width: 80px;
+    height: 160px;
+    background: black;
+
+    border-radius: 8px;
+    position: relative;
+  }
+
+  .device::after {
+    display: block;
+    content: '';
+
+    background: white;
+    width: 16px;
+    height: 16px;
+
+    position: absolute;
+    bottom: 8px;
+    left: calc(50% - 8px);
+
+    border-radius: 100%;
+  }

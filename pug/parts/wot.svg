@@ -1,0 +1,370 @@
+<svg width="960" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g></g>
+    <g transform="translate(480,300)">
+        <text text-anchor="middle" transform="translate(-203,7)rotate(-59.99999999999999)"
+              style="font-size: 100px; font-family: Impact; fill: rgb(99, 121, 57);"></text>
+        <text text-anchor="middle" transform="translate(265,-89)rotate(-59.99999999999999)"
+              style="font-size: 58px; font-family: Impact; fill: rgb(99, 121, 57);">software
+        </text>
+        <text text-anchor="middle" transform="translate(249,27)rotate(-59.99999999999999)"
+              style="font-size: 62px; font-family: Impact; fill: rgb(206, 109, 189);">hardware
+        </text>
+        <text text-anchor="middle" transform="translate(16,-10)rotate(-59.99999999999999)"
+              style="font-size: 77px; font-family: Impact; fill: rgb(206, 219, 156);">IoT
+        </text>
+        <text text-anchor="middle" transform="translate(95,21)rotate(-59.99999999999999)"
+              style="font-size: 75px; font-family: Impact; fill: rgb(99, 121, 57);">platform
+        </text>
+        <text text-anchor="middle" transform="translate(156,-8)rotate(-59.99999999999999)"
+              style="font-size: 69px; font-family: Impact; fill: rgb(140, 109, 49);">open
+        </text>
+        <text text-anchor="middle" transform="translate(161,86)rotate(-59.99999999999999)"
+              style="font-size: 69px; font-family: Impact; fill: rgb(214, 97, 107);">devices
+        </text>
+        <text text-anchor="middle" transform="translate(-92,66)rotate(-59.99999999999999)"
+              style="font-size: 67px; font-family: Impact; fill: rgb(189, 158, 57);">source
+        </text>
+        <text text-anchor="middle" transform="translate(-191,-48)rotate(-59.99999999999999)"
+              style="font-size: 64px; font-family: Impact; fill: rgb(107, 110, 207);">development
+        </text>
+        <text text-anchor="middle" transform="translate(-35,126)rotate(-59.99999999999999)"
+              style="font-size: 64px; font-family: Impact; fill: rgb(123, 65, 115);">system
+        </text>
+        <text text-anchor="middle" transform="translate(-157,64)rotate(-59.99999999999999)"
+              style="font-size: 62px; font-family: Impact; fill: rgb(165, 81, 148);">operating
+        </text>
+        <text text-anchor="middle" transform="translate(-199,-138)rotate(-59.99999999999999)"
+              style="font-size: 62px; font-family: Impact; fill: rgb(189, 158, 57);">programming
+        </text>
+        <text text-anchor="middle" transform="translate(-192,48)rotate(-59.99999999999999)"
+              style="font-size: 62px; font-family: Impact; fill: rgb(206, 219, 156);">framework
+        </text>
+        <text text-anchor="middle" transform="translate(276,74)rotate(-59.99999999999999)"
+              style="font-size: 60px; font-family: Impact; fill: rgb(156, 158, 222);">Things
+        </text>
+        <text text-anchor="middle" transform="translate(292,137)rotate(-59.99999999999999)"
+              style="font-size: 60px; font-family: Impact; fill: rgb(231, 150, 156);">based
+        </text>
+        <text text-anchor="middle" transform="translate(-341,40)rotate(-59.99999999999999)"
+              style="font-size: 60px; font-family: Impact; fill: rgb(173, 73, 74);">embedded
+        </text>
+        <text text-anchor="middle" transform="translate(-88,130)rotate(-59.99999999999999)"
+              style="font-size: 60px; font-family: Impact; fill: rgb(173, 73, 74);">Internet
+        </text>
+        <text text-anchor="middle" transform="translate(16,-122)rotate(-59.99999999999999)"
+              style="font-size: 58px; font-family: Impact; fill: rgb(123, 65, 115);">language
+        </text>
+        <text text-anchor="middle" transform="translate(179,-154)rotate(-59.99999999999999)"
+              style="font-size: 58px; font-family: Impact; fill: rgb(173, 73, 74);">home
+        </text>
+        <text text-anchor="middle" transform="translate(355,90)rotate(-59.99999999999999)"
+              style="font-size: 53px; font-family: Impact; fill: rgb(107, 110, 207);">computer
+        </text>
+        <text text-anchor="middle" transform="translate(-21,188)rotate(-59.99999999999999)"
+              style="font-size: 53px; font-family: Impact; fill: rgb(107, 110, 207);">Smart
+        </text>
+        <text text-anchor="middle" transform="translate(110,-137)rotate(-59.99999999999999)"
+              style="font-size: 53px; font-family: Impact; fill: rgb(214, 97, 107);">provides
+        </text>
+        <text text-anchor="middle" transform="translate(-346,123)rotate(-59.99999999999999)"
+              style="font-size: 51px; font-family: Impact; fill: rgb(181, 207, 107);">opensource
+        </text>
+        <text text-anchor="middle" transform="translate(-301,132)rotate(-59.99999999999999)"
+              style="font-size: 51px; font-family: Impact; fill: rgb(231, 186, 82);">Lua
+        </text>
+        <text text-anchor="middle" transform="translate(93,84)rotate(-59.99999999999999)"
+              style="font-size: 51px; font-family: Impact; fill: rgb(123, 65, 115);">easy
+        </text>
+        <text text-anchor="middle" transform="translate(37,165)rotate(-59.99999999999999)"
+              style="font-size: 47px; font-family: Impact; fill: rgb(140, 109, 49);">Pi
+        </text>
+        <text text-anchor="middle" transform="translate(-103,-127)rotate(-59.99999999999999)"
+              style="font-size: 47px; font-family: Impact; fill: rgb(140, 162, 82);">Linux
+        </text>
+        <text text-anchor="middle" transform="translate(361,169)rotate(-59.99999999999999)"
+              style="font-size: 47px; font-family: Impact; fill: rgb(206, 219, 156);">designed
+        </text>
+        <text text-anchor="middle" transform="translate(62,-122)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(82, 84, 163);">data
+        </text>
+        <text text-anchor="middle" transform="translate(-173,169)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(181, 207, 107);">uses
+        </text>
+        <text text-anchor="middle" transform="translate(-347,-163)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(99, 121, 57);">memory
+        </text>
+        <text text-anchor="middle" transform="translate(155,174)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(132, 60, 57);">small
+        </text>
+        <text text-anchor="middle" transform="translate(376,-53)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(107, 110, 207);">M2M
+        </text>
+        <text text-anchor="middle" transform="translate(-43,-213)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(57, 59, 121);">build
+        </text>
+        <text text-anchor="middle" transform="translate(45,203)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(231, 186, 82);">Java
+        </text>
+        <text text-anchor="middle" transform="translate(180,201)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(206, 219, 156);">Robotics
+        </text>
+        <text text-anchor="middle" transform="translate(-404,-44)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(206, 219, 156);">well
+        </text>
+        <text text-anchor="middle" transform="translate(-247,217)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(165, 81, 148);">Nodejs
+        </text>
+        <text text-anchor="middle" transform="translate(382,206)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(82, 84, 163);">features
+        </text>
+        <text text-anchor="middle" transform="translate(-299,208)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(189, 158, 57);">access
+        </text>
+        <text text-anchor="middle" transform="translate(-75,-236)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(156, 158, 222);">board
+        </text>
+        <text text-anchor="middle" transform="translate(102,210)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(222, 158, 214);">free
+        </text>
+        <text text-anchor="middle" transform="translate(220,229)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(57, 59, 121);">OSGi
+        </text>
+        <text text-anchor="middle" transform="translate(285,221)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(99, 121, 57);">used
+        </text>
+        <text text-anchor="middle" transform="translate(-404,54)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(231, 150, 156);">API
+        </text>
+        <text text-anchor="middle" transform="translate(-103,236)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(107, 110, 207);">IPSO
+        </text>
+        <text text-anchor="middle" transform="translate(416,-67)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(156, 158, 222);">IOStash
+        </text>
+        <text text-anchor="middle" transform="translate(344,37)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(99, 121, 57);">I1820
+        </text>
+        <text text-anchor="middle" transform="translate(-76,-123)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(231, 203, 148);">run
+        </text>
+        <text text-anchor="middle" transform="translate(41,-252)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(140, 162, 82);">Tools
+        </text>
+        <text text-anchor="middle" transform="translate(414,48)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(107, 110, 207);">help
+        </text>
+        <text text-anchor="middle" transform="translate(102,112)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(231, 150, 156);">etc
+        </text>
+        <text text-anchor="middle" transform="translate(-122,47)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(99, 121, 57);">users
+        </text>
+        <text text-anchor="middle" transform="translate(115,-93)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(231, 186, 82);">IO
+        </text>
+        <text text-anchor="middle" transform="translate(78,-247)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(214, 97, 107);">runs
+        </text>
+        <text text-anchor="middle" transform="translate(17,-271)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(132, 60, 57);">also
+        </text>
+        <text text-anchor="middle" transform="translate(-243,-256)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(107, 110, 207);">web
+        </text>
+        <text text-anchor="middle" transform="translate(224,-252)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(82, 84, 163);">like
+        </text>
+        <text text-anchor="middle" transform="translate(163,-261)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(206, 219, 156);">WiFi
+        </text>
+        <text text-anchor="middle" transform="translate(-207,216)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(123, 65, 115);">10
+        </text>
+        <text text-anchor="middle" transform="translate(422,111)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 150, 156);">UDOO
+        </text>
+        <text text-anchor="middle" transform="translate(-157,106)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 186, 82);">JVM
+        </text>
+        <text text-anchor="middle" transform="translate(58,218)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(165, 81, 148);">capable
+        </text>
+        <text text-anchor="middle" transform="translate(104,245)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 203, 148);">Luvit
+        </text>
+        <text text-anchor="middle" transform="translate(-174,-144)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(165, 81, 148);">means
+        </text>
+        <text text-anchor="middle" transform="translate(-153,243)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(140, 109, 49);">mobile
+        </text>
+        <text text-anchor="middle" transform="translate(-428,-223)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 203, 148);">Particle
+        </text>
+        <text text-anchor="middle" transform="translate(158,-179)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(189, 158, 57);">Intel
+        </text>
+        <text text-anchor="middle" transform="translate(91,-50)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(214, 97, 107);">scale
+        </text>
+        <text text-anchor="middle" transform="translate(327,-196)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 150, 156);">first
+        </text>
+        <text text-anchor="middle" transform="translate(-324,-57)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(206, 219, 156);">IOs
+        </text>
+        <text text-anchor="middle" transform="translate(-90,254)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(123, 65, 115);">Pi4j
+        </text>
+        <text text-anchor="middle" transform="translate(2,258)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(165, 81, 148);">tasks
+        </text>
+        <text text-anchor="middle" transform="translate(-431,15)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(206, 109, 189);">apps
+        </text>
+        <text text-anchor="middle" transform="translate(5,99)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(57, 59, 121);">full
+        </text>
+        <text text-anchor="middle" transform="translate(-2,-153)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 203, 148);">DIY
+        </text>
+        <text text-anchor="middle" transform="translate(-38,-186)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(140, 162, 82);">even
+        </text>
+        <text text-anchor="middle" transform="translate(-98,4)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(156, 158, 222);">2
+        </text>
+        <text text-anchor="middle" transform="translate(-39,-15)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(140, 162, 82);">C
+        </text>
+        <text text-anchor="middle" transform="translate(-167,-263)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(156, 158, 222);">size
+        </text>
+        <text text-anchor="middle" transform="translate(193,-41)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 150, 156);">new
+        </text>
+        <text text-anchor="middle" transform="translate(-9,-279)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(206, 219, 156);">See
+        </text>
+        <text text-anchor="middle" transform="translate(-205,-93)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(181, 207, 107);">set
+        </text>
+        <text text-anchor="middle" transform="translate(67,152)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(57, 59, 121);">top
+        </text>
+        <text text-anchor="middle" transform="translate(-241,-168)rotate(-59.99999999999999)"
+              style="font-size: 51px; font-family: Impact; fill: rgb(231, 150, 156);">connected
+        </text>
+        <text text-anchor="middle" transform="translate(-346,218)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(231, 150, 156);">MQTT
+        </text>
+        <text text-anchor="middle" transform="translate(334,-242)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(206, 109, 189);">written
+        </text>
+        <text text-anchor="middle" transform="translate(413,219)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(140, 162, 82);">Eclipse
+        </text>
+        <text text-anchor="middle" transform="translate(244,240)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(189, 158, 57);">Kura
+        </text>
+        <text text-anchor="middle" transform="translate(412,-138)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(140, 109, 49);">physical
+        </text>
+        <text text-anchor="middle" transform="translate(-225,254)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(82, 84, 163);">rapid
+        </text>
+        <text text-anchor="middle" transform="translate(-37,-132)rotate(-59.99999999999999)"
+              style="font-size: 51px; font-family: Impact; fill: rgb(222, 158, 214);">Raspberry
+        </text>
+        <text text-anchor="middle" transform="translate(-372,-187)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(123, 65, 115);">JavaScript
+        </text>
+        <text text-anchor="middle" transform="translate(-5,223)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(123, 65, 115);">project
+        </text>
+        <text text-anchor="middle" transform="translate(294,-254)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(222, 158, 214);">cloud
+        </text>
+        <text text-anchor="middle" transform="translate(-176,227)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(165, 81, 148);">eLua
+        </text>
+        <text text-anchor="middle" transform="translate(-429,201)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(173, 73, 74);">Amazon
+        </text>
+        <text text-anchor="middle" transform="translate(-425,255)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 150, 156);">Blynk
+        </text>
+        <text text-anchor="middle" transform="translate(283,254)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(206, 219, 156);">power
+        </text>
+        <text text-anchor="middle" transform="translate(240,-136)rotate(-59.99999999999999)"
+              style="font-size: 47px; font-family: Impact; fill: rgb(123, 65, 115);">powerful
+        </text>
+        <text text-anchor="middle" transform="translate(359,-88)rotate(-59.99999999999999)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(123, 65, 115);">automation
+        </text>
+        <text text-anchor="middle" transform="translate(-399,-209)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(156, 158, 222);">solution
+        </text>
+        <text text-anchor="middle" transform="translate(111,-227)rotate(-59.99999999999999)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(99, 121, 57);">services
+        </text>
+        <text text-anchor="middle" transform="translate(353,-147)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(156, 158, 222);">manage
+        </text>
+        <text text-anchor="middle" transform="translate(-285,-252)rotate(-59.99999999999999)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(181, 207, 107);">create
+        </text>
+        <text text-anchor="middle" transform="translate(-431,171)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(107, 110, 207);">button
+        </text>
+        <text text-anchor="middle" transform="translate(-227,-161)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(140, 109, 49);">common
+        </text>
+        <text text-anchor="middle" transform="translate(223,165)rotate(-59.99999999999999)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(57, 59, 121);">range
+        </text>
+        <text text-anchor="middle" transform="translate(-327,-108)rotate(-60)"
+              style="font-size: 58px; font-family: Impact; fill: rgb(165, 81, 148);">applications
+        </text>
+        <text text-anchor="middle" transform="translate(351,-185)rotate(-60)"
+              style="font-size: 43px; font-family: Impact; fill: rgb(123, 65, 115);">connectivity
+        </text>
+        <text text-anchor="middle" transform="translate(203,-129)rotate(-60)"
+              style="font-size: 39px; font-family: Impact; fill: rgb(189, 158, 57);">control
+        </text>
+        <text text-anchor="middle" transform="translate(189,-248)rotate(-60)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(231, 186, 82);">REST
+        </text>
+        <text text-anchor="middle" transform="translate(252,-244)rotate(-60)"
+              style="font-size: 33px; font-family: Impact; fill: rgb(231, 203, 148);">without
+        </text>
+        <text text-anchor="middle" transform="translate(-429,-66)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(132, 60, 57);">Gobot
+        </text>
+        <text text-anchor="middle" transform="translate(416,-242)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(181, 207, 107);">interactive
+        </text>
+        <text text-anchor="middle" transform="translate(186,229)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(140, 162, 82);">Pimatic
+        </text>
+        <text text-anchor="middle" transform="translate(429,242)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(173, 73, 74);">AllJoyn
+        </text>
+        <text text-anchor="middle" transform="translate(-430,130)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(222, 158, 214);">ELFE
+        </text>
+        <text text-anchor="middle" transform="translate(-297,239)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 150, 156);">Gateway
+        </text>
+        <text text-anchor="middle" transform="translate(-96,-247)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 150, 156);">Tessel
+        </text>
+        <text text-anchor="middle" transform="translate(68,255)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(181, 207, 107);">goal
+        </text>
+        <text text-anchor="middle" transform="translate(-372,28)rotate(-60)"
+              style="font-size: 24px; font-family: Impact; fill: rgb(231, 150, 156);">wide
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+.graph {
+  fill: currentColor; }
+  .graph .node {
+    transition: color .5s linear; }

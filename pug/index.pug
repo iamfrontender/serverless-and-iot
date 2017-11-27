@@ -1,0 +1,40 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0")
+    meta(http-equiv="X-UA-Compatible", content="ie=edge")
+    title Serverless & IoT
+    link(rel="stylesheet", href="css/main.css")
+    link(href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,800", rel="stylesheet")
+
+    script(src='https://d3js.org/d3.v4.min.js')
+    script(src='/js/lib/d3-transform.js')
+  body
+    #impress
+      include steps/intro
+      include steps/simple
+
+      include steps/evrythng
+
+      include steps/wot
+      include steps/wot-details
+
+      include steps/paas
+      include steps/paas-details
+
+      include steps/customers
+      include steps/customers-details
+
+      include steps/evrythng-2
+      include steps/links
+
+      include steps/where-is-serverless
+
+      include steps/solution
+
+    script(src="js/impress.js")
+    script.
+      const api = impress();
+      api.init();
+      document.body.addEventListener('impress:stepEnter', console.log);
