@@ -262,7 +262,7 @@ class Solution extends Component {
 
     this.graph = new Graph({ el: this.el.graph });
 
-    Array(1).fill(0).map(() => this.next());
+    // Array(1).fill(0).map(() => this.next());
 
     document.addEventListener('keydown', (e) => {
       if (e.key === 'x') {
@@ -271,6 +271,7 @@ class Solution extends Component {
 
       if (e.key === 'q') {
         this.graph.clear();
+        this.currentStage = 0;
       }
     });
 
