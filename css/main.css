@@ -2,10 +2,18 @@
   fill: currentColor; }
   .graph .node {
     transition: color .5s linear; }
+  .graph .platform .icon path {
+    fill: black !important;
+    transform: scale(2); }
 
 .slide.secret {
   opacity: 0; }
   .slide.secret.active {
+    opacity: 1; }
+
+.slide.waiting {
+  opacity: 0; }
+  .slide.waiting.active, .slide.waiting.past {
     opacity: 1; }
 
 * {
@@ -88,7 +96,8 @@ h1 {
   flex-direction: column; }
 
 [flex-center] {
-  align-items: center; }
+  align-items: center;
+  justify-content: center; }
 
 [flex-padding] > * {
   margin: 4px; }
@@ -118,8 +127,15 @@ h1 {
   filter: grayscale(1) contrast(0.5);
   margin: 32px; }
 
+.text-center {
+  text-align: center; }
+
 a {
   color: mediumblue; }
+  a.xs {
+    font-size: .6em; }
+  a.white {
+    color: gray; }
 
 table.links td:first-child {
   text-align: right; }

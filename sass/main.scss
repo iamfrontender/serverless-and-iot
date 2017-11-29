@@ -124,6 +124,7 @@ h1 {
 
 [flex-center] {
   align-items: center;
+  justify-content: center;
 }
 
 [flex-padding] > * {
@@ -164,8 +165,20 @@ h1 {
   }
 }
 
+.text-center {
+  text-align: center;
+}
+
 a {
   color: mediumblue;
+
+  &.xs {
+    font-size: .6em;
+  }
+
+  &.white {
+    color: gray;
+  }
 }
 
 table {

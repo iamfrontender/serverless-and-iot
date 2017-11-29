@@ -2,3 +2,8 @@
   opacity: 0; }
   .slide.secret.active {
     opacity: 1; }
+
+.slide.waiting {
+  opacity: 0; }
+  .slide.waiting.active, .slide.waiting.past {
+    opacity: 1; }

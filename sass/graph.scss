@@ -4,4 +4,13 @@
   .node {
     transition: color .5s linear;
   }
+
+  .platform {
+    .icon {
+      path {
+        fill: black !important;
+        transform: scale(2);
+      }
+    }
+  }
 }

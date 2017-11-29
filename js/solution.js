@@ -136,6 +136,45 @@ class Solution extends Component {
       },
 
       () => {
+        this.graph.add({
+          nodes: [
+            { id: 'server-3', cls: 'comm erlang' },
+          ],
+          links: [
+            { source: 'server-3', target: 'server-2', cls: 'http' },
+            { source: 'server-3', target: 'db-1', cls: 'psql' }
+          ]
+        });
+      },
+
+      () => {
+        this.graph.add({
+          nodes: [],
+          links: [
+            { source: 'server-3', target: 'server-1', cls: 'http' }
+          ]
+        });
+      },
+
+      () => {
+        this.graph.add({
+          nodes: [
+            { id: 'server-4', cls: 'comm erlang' },
+            { id: 'server-5', cls: 'comm erlang' },
+          ],
+          links: [
+            { source: 'server-4', target: 'server-2', cls: 'http' },
+            { source: 'server-3', target: 'server-1', cls: 'http' },
+            { source: 'server-4', target: 'db-1', cls: 'psql' },
+
+            { source: 'server-5', target: 'server-2', cls: 'http' },
+            { source: 'server-3', target: 'server-1', cls: 'http' },
+            { source: 'server-5', target: 'db-1', cls: 'psql' },
+          ]
+        });
+      },
+
+      () => {
         const devices = 50;
 
         this.graph.scale = .5;
@@ -176,16 +215,62 @@ class Solution extends Component {
         style(this.graph.el, '.econet', { color: colors.rheem });
         style(this.graph.el, '.websocket', { color: colors.websocket });
         style(this.graph.el, '.http', { color: colors.http });
+      },
+
+      () => {
+        this.graph.remove('wifi-0');
+        this.graph.remove('server-0');
+        this.graph.remove('server-1');
+        this.graph.remove('server-2');
+        this.graph.remove('server-3');
+        this.graph.remove('server-4');
+        this.graph.remove('server-5');
+        this.graph.remove('db-0');
+        this.graph.remove('db-1');
+      },
+
+      () => {
+        this.graph.add({
+          nodes: [
+            { id: 'platform-0', cls: 'platform' }
+          ],
+          links: this.graph.data.nodes.map(
+            node => ({
+              source: 'platform-0',
+              target: node.id,
+              distance: rand(100, 600)
+            })
+          )
+        });
+      },
+
+      () => {
+        const devices = 200;
+
+        this.graph.scale = .4;
+
+        for (let i = 0, ii = devices; i < ii; i++) {
+          const id = `${anyOf(['device', 'mobile', 'wifi', 'hpwh', 'ecc', 'ewh'])}-${1 + i}`;
+
+          this.graph.add({
+            nodes: [{ id }],
+            links: [{ source: id, target: 'platform-0', distance: rand(100, 700), cls: 'http' }]
+          });
+        }
       }
     ];
 
     this.graph = new Graph({ el: this.el.graph });
 
-    Array(10).fill(0).map(() => this.next());
+    Array(1).fill(0).map(() => this.next());
 
     document.addEventListener('keydown', (e) => {
       if (e.key === 'x') {
         this.next();
+      }
+
+      if (e.key === 'q') {
+        this.graph.clear();
       }
     });
 

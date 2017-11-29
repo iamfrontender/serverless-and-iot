@@ -2,3 +2,6 @@
   fill: currentColor; }
   .graph .node {
     transition: color .5s linear; }
+  .graph .platform .icon path {
+    fill: black !important;
+    transform: scale(2); }

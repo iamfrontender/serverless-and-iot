@@ -6,4 +6,12 @@
       opacity: 1;
     }
   }
+
+  &.waiting {
+    opacity: 0;
+
+    &.active, &.past {
+      opacity: 1;
+    }
+  }
 }
