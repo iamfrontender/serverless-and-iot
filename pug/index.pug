@@ -12,11 +12,14 @@ html(lang="en")
     script(src='/js/lib/d3-transform.js')
   body
     #impress
+
+      // Intro
       include steps/intro
 
       include steps/simple
       include steps/simple-detais
 
+      // About company and platform
       include steps/evrythng
 
       include steps/wot
@@ -36,10 +39,24 @@ html(lang="en")
       include steps/solution
       include steps/where-is-serverless-2
 
+      // Lambda details
       include steps/lambda-is-stateless
       include steps/lambda-is-not-stateless
       include steps/lambda-scales-well
       include steps/lambda-not-scales-well
+      include steps/lambda-is-ram-driven
+      include steps/lambda-focus-on-optimizations
+      include steps/lambda-easy-to-redeploy
+      include steps/lambda-is-regional
+      include steps/lambda-hard-to-debug
+
+      include steps/simple
+      include steps/lambda-details
+
+      // Final
+      include steps/intro
+      include steps/qa
+
 
     script(src="js/impress.js")
     script.

@@ -14,4 +14,38 @@
       opacity: 1;
     }
   }
+
+  .astronaut {
+    position: absolute;
+    opacity: .8;
+    filter: contrast(2);
+
+    animation: astronauting 60s infinite linear;
+  }
+
+  .summary {
+    font-size: .6em;
+    line-height: 1;
+
+    td {
+      padding: 24px;
+
+      &.text-right {
+        position: relative;
+      }
+
+      &.text-right::after {
+        content: '|';
+        font-size: 1em;
+        position: absolute;
+        top: calc(50% - .6em);
+        left: calc(100% - .25em);
+      }
+    }
+  }
+}
+
+@keyframes astronauting {
+  from { transform: translate(-50vw,  30vh) rotate(-90deg) scale(.4); }
+  to   { transform: translate(50vw, -50vh) rotate(360deg) scale(.2); }
 }

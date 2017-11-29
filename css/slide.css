@@ -7,3 +7,29 @@
   opacity: 0; }
   .slide.waiting.active, .slide.waiting.past {
     opacity: 1; }
+
+.slide .astronaut {
+  position: absolute;
+  opacity: .8;
+  filter: contrast(2);
+  animation: astronauting 60s infinite linear; }
+
+.slide .summary {
+  font-size: .6em;
+  line-height: 1; }
+  .slide .summary td {
+    padding: 24px; }
+    .slide .summary td.text-right {
+      position: relative; }
+    .slide .summary td.text-right::after {
+      content: '|';
+      font-size: 1em;
+      position: absolute;
+      top: calc(50% - .6em);
+      left: calc(100% - .25em); }
+
+@keyframes astronauting {
+  from {
+    transform: translate(-50vw, 30vh) rotate(-90deg) scale(0.4); }
+  to {
+    transform: translate(50vw, -50vh) rotate(360deg) scale(0.2); } }
